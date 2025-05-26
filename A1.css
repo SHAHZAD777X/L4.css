@@ -1,0 +1,16 @@
+body{
+background-color: bisque;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+h1{color: aqua;}
+
+a{color: brown;}
+a:hover{color: blueviolet;}
+
+ul>li{font-family: bold;}
+
+ul li:nth-child(2){color: rgb(158, 87, 17);}
+
+p::first-letter{font-size:200%;}
